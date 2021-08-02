@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calebtolorunleke
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Software Development
+- 🌱 I’m certified Software Developer
 - 💞️ I’m looking to collaborate on Microsoft, Google
 - 📫 How to reach me calebtolorunleke@yahoo.com
 
