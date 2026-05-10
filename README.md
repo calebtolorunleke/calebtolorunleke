@@ -17,4 +17,5 @@ Fun Facts
 - Demon Slayer is my favorite anime
 - I enjoy going to the gym, solving problems, and building things
 
-You should check my portfolio.
+  
+You should check out my portfolio 🚀
