@@ -6,6 +6,8 @@ I build modern web applications with a strong focus on frontend performance, sca
 
 My main technologies include React, Next.js, TypeScript, JavaScript, Node.js, REST APIs, Tailwind CSS, and GitHub Actions.
 My main technologies include React, Next.js, TypeScript, JavaScript, Node.js, REST APIs, Tailwind CSS, and GitHub Actions.
+My main technologies include React, Next.js, TypeScript, JavaScript, Node.js, REST APIs, Tailwind CSS, and GitHub Actions.
+My main technologies include React, Next.js, TypeScript, JavaScript, Node.js, REST APIs, Tailwind CSS, and GitHub Actions.
 
 ⚡ What I care about
 - Building fast, scalable frontend systems
