@@ -5,9 +5,6 @@ I'm Caleb, a frontend-focused full-stack engineer based in Canada.
 I build modern web applications with a strong focus on frontend performance, scalable UI architecture, API integration, and production reliability. My background also includes supporting high-availability systems, debugging production issues, and improving software and delivery workflows.
 
 My main technologies include React, Next.js, TypeScript, JavaScript, Node.js, REST APIs, Tailwind CSS, and GitHub Actions.
-My main technologies include React, Next.js, TypeScript, JavaScript, Node.js, REST APIs, Tailwind CSS, and GitHub Actions.
-My main technologies include React, Next.js, TypeScript, JavaScript, Node.js, REST APIs, Tailwind CSS, and GitHub Actions.
-My main technologies include React, Next.js, TypeScript, JavaScript, Node.js, REST APIs, Tailwind CSS, and GitHub Actions.
 
 ⚡ What I care about
 - Building fast, scalable frontend systems
